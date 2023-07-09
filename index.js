@@ -2,7 +2,8 @@ var express = require("express");
 var bodyParser = require("body-parser");
 var mongoose = require("mongoose");
 const { MongoClient } = require('mongodb');
-const uri = "mongodb+srv://admin:admin@culturex.ql85djo.mongodb.net/CultureX?retryWrites=true&w=majority";
+// const uri = "mongodb+srv://admin:admin@culturex.ql85djo.mongodb.net/CultureX?retryWrites=true&w=majority";
+const uri = process.env.DATABASE;
 const app = express();
 
 app.use(bodyParser.json());
