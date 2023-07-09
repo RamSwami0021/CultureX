@@ -1,0 +1,533 @@
+[
+    {
+      "username": "sonia_singh",
+      "full_name": "Sonia Singh",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 1000,
+      "city": "Delhi"
+    },
+    {
+      "username": "raj_malhotra",
+      "full_name": "Raj Malhotra",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "personal",
+      "followers": 5000,
+      "city": "Mumbai"
+    },
+    {
+      "username": "priya_sharma",
+      "full_name": "Priya Sharma",
+      "gender": "female",
+      "verified": true,
+      "private": true,
+      "account_type": "personal",
+      "followers": 200,
+      "city": "Kolkata"
+    },
+    {
+      "username": "aniket_patil",
+      "full_name": "Aniket Patil",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "personal",
+      "followers": 3500,
+      "city": "Pune"
+    },
+    {
+      "username": "isha_joshi",
+      "full_name": "Isha Joshi",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "business",
+      "followers": 12000,
+      "city": "Ahmedabad"
+    },
+    {
+      "username": "arjun_kumar",
+      "full_name": "Arjun Kumar",
+      "gender": "male",
+      "verified": false,
+      "private": true,
+      "account_type": "personal",
+      "followers": 300,
+      "city": "Jaipur"
+    },
+    {
+      "username": "nisha_gupta",
+      "full_name": "Nisha Gupta",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 7000,
+      "city": "Chennai"
+    },
+    {
+      "username": "amit_shah",
+      "full_name": "Amit Shah",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "business",
+      "followers": 55000,
+      "city": "Delhi"
+    },
+    {
+      "username": "deepika_reddy",
+      "full_name": "Deepika Reddy",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 2300,
+      "city": "Hyderabad"
+    },
+    {
+      "username": "vikram_mishra",
+      "full_name": "Vikram Mishra",
+      "gender": "male",
+      "verified": false,
+      "private": true,
+      "account_type": "personal",
+      "followers": 400,
+      "city": "Lucknow"
+    },
+    {
+      "username": "rashmi_verma",
+      "full_name": "Rashmi Verma",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 6200,
+      "city": "Mumbai"
+    },
+    {
+      "username": "rohan_sharma",
+      "full_name": "Rohan Sharma",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "personal",
+      "followers": 3200,
+      "city": "Delhi"
+    },
+    {
+      "username": "aditi_banerjee",
+      "full_name": "Aditi Banerjee",
+      "gender": "female",
+      "verified": true,
+      "private": true,
+      "account_type": "personal",
+      "followers": 150,
+      "city": "Kolkata"
+    },
+    {
+      "username": "manish_rao",
+      "full_name": "Manish Rao",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "business",
+      "followers": 18700,
+      "city": "Bengaluru"
+    },
+    {
+      "username": "tanvi_seth",
+      "full_name": "Tanvi Seth",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 5600,
+      "city": "Chandigarh"
+    },
+    {
+      "username": "nitin_shah",
+      "full_name": "Nitin Shah",
+      "gender": "male",
+      "verified": false,
+      "private": true,
+      "account_type": "personal",
+      "followers": 250,
+      "city": "Mumbai"
+    },
+    {
+      "username": "priyanka_reddy",
+      "full_name": "Priyanka Reddy",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 4800,
+      "city": "Hyderabad"
+    },
+    {
+      "username": "amitabh_singh",
+      "full_name": "Amitabh Singh",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "personal",
+      "followers": 1800,
+      "city": "Delhi"
+    },
+    {
+      "username": "shweta_patel",
+      "full_name": "Shweta Patel",
+      "gender": "female",
+      "verified": true,
+      "private": true,
+      "account_type": "personal",
+      "followers": 90,
+      "city": "Ahmedabad"
+    },
+    {
+      "username": "rahul_sharma",
+      "full_name": "Rahul Sharma",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "business",
+      "followers": 9900,
+      "city": "Chennai"
+    },
+    {
+      "username": "neha_sen",
+      "full_name": "Neha Sen",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 3400,
+      "city": "Kolkata"
+    },
+    {
+      "username": "akash_gupta",
+      "full_name": "Akash Gupta",
+      "gender": "male",
+      "verified": false,
+      "private": true,
+      "account_type": "personal",
+      "followers": 400,
+      "city": "Mumbai"
+    },
+    {
+      "username": "divya_sharma",
+      "full_name": "Divya Sharma",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 5300,
+      "city": "Jaipur"
+    },
+    {
+      "username": "vikas_verma",
+      "full_name": "Vikas Verma",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "personal",
+      "followers": 1700,
+      "city": "Bengaluru"
+    },
+    {
+      "username": "priya_jain",
+      "full_name": "Priya Jain",
+      "gender": "female",
+      "verified": true,
+      "private": true,
+      "account_type": "personal",
+      "followers": 120,
+      "city": "Jaipur"
+    },
+    {
+      "username": "manoj_sharma",
+      "full_name": "Manoj Sharma",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "business",
+      "followers": 9500,
+      "city": "Delhi"
+    },
+    {
+      "username": "sneha_reddy",
+      "full_name": "Sneha Reddy",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 3800,
+      "city": "Hyderabad"
+    },
+    {
+      "username": "anand_patil",
+      "full_name": "Anand Patil",
+      "gender": "male",
+      "verified": false,
+      "private": true,
+      "account_type": "personal",
+      "followers": 350,
+      "city": "Pune"
+    },
+    {
+      "username": "shreya_gupta",
+      "full_name": "Shreya Gupta",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 4900,
+      "city": "Kolkata"
+    },
+    {
+      "username": "rahul_mehra",
+      "full_name": "Rahul Mehra",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "business",
+      "followers": 10500,
+      "city": "Mumbai"
+    },
+    {
+      "username": "meera_sharma",
+      "full_name": "Meera Sharma",
+      "gender": "female",
+      "verified": true,
+      "private": true,
+      "account_type": "personal",
+      "followers": 220,
+      "city": "Delhi"
+    },
+    {
+      "username": "ankit_pandey",
+      "full_name": "Ankit Pandey",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "personal",
+      "followers": 2900,
+      "city": "Bengaluru"
+    },
+    {
+      "username": "sakshi_shah",
+      "full_name": "Sakshi Shah",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 4200,
+      "city": "Ahmedabad"
+    },
+    {
+      "username": "vikas_kumar",
+      "full_name": "Vikas Kumar",
+      "gender": "male",
+      "verified": false,
+      "private": true,
+      "account_type": "personal",
+      "followers": 280,
+      "city": "Mumbai"
+    },
+    {
+      "username": "rashmi_sharma",
+      "full_name": "Rashmi Sharma",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 5800,
+      "city": "Jaipur"
+    },
+    {
+      "username": "manish_shah",
+      "full_name": "Manish Shah",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "business",
+      "followers": 7200,
+      "city": "Mumbai"
+    },
+    {
+      "username": "nandini_mishra",
+      "full_name": "Nandini Mishra",
+      "gender": "female",
+      "verified": true,
+      "private": true,
+      "account_type": "personal",
+      "followers": 180,
+      "city": "Kolkata"
+    },
+    {
+      "username": "rajesh_yadav",
+      "full_name": "Rajesh Yadav",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "personal",
+      "followers": 4100,
+      "city": "Lucknow"
+    },
+    {
+      "username": "neha_mahajan",
+      "full_name": "Neha Mahajan",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 5100,
+      "city": "Delhi"
+    },
+    {
+      "username": "amit_kumar",
+      "full_name": "Amit Kumar",
+      "gender": "male",
+      "verified": false,
+      "private": true,
+      "account_type": "personal",
+      "followers": 320,
+      "city": "Bengaluru"
+    },
+    {
+      "username": "komal_sharma",
+      "full_name": "Komal Sharma",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 4300,
+      "city": "Mumbai"
+    },
+    {
+      "username": "vikrant_gupta",
+      "full_name": "Vikrant Gupta",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "business",
+      "followers": 14800,
+      "city": "Delhi"
+    },
+    {
+      "username": "pooja_shah",
+      "full_name": "Pooja Shah",
+      "gender": "female",
+      "verified": true,
+      "private": true,
+      "account_type": "personal",
+      "followers": 120,
+      "city": "Ahmedabad"
+    },
+    {
+      "username": "mukesh_gupta",
+      "full_name": "Mukesh Gupta",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "personal",
+      "followers": 2600,
+      "city": "Mumbai"
+    },
+    {
+      "username": "sneha_mehta",
+      "full_name": "Sneha Mehta",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 3900,
+      "city": "Jaipur"
+    },
+    {
+      "username": "vijay_singh",
+      "full_name": "Vijay Singh",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "business",
+      "followers": 9800,
+      "city": "Bengaluru"
+    },
+    {
+      "username": "isha_joshi",
+      "full_name": "Isha Joshi",
+      "gender": "female",
+      "verified": true,
+      "private": true,
+      "account_type": "personal",
+      "followers": 200,
+      "city": "Chennai"
+    },
+    {
+      "username": "arjun_kumar",
+      "full_name": "Arjun Kumar",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "personal",
+      "followers": 3400,
+      "city": "Lucknow"
+    },
+    {
+      "username": "sakshi_sharma",
+      "full_name": "Sakshi Sharma",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 6200,
+      "city": "Delhi"
+    },
+    {
+      "username": "abhishek_mishra",
+      "full_name": "Abhishek Mishra",
+      "gender": "male",
+      "verified": false,
+      "private": true,
+      "account_type": "personal",
+      "followers": 420,
+      "city": "Bengaluru"
+    },
+    {
+      "username": "sanjana_patel",
+      "full_name": "Sanjana Patel",
+      "gender": "female",
+      "verified": true,
+      "private": false,
+      "account_type": "personal",
+      "followers": 7500,
+      "city": "Mumbai"
+    },
+    {
+      "username": "vikas_kumar",
+      "full_name": "Vikas Kumar",
+      "gender": "male",
+      "verified": false,
+      "private": false,
+      "account_type": "business",
+      "followers": 56000,
+      "city": "Delhi"
+    },
+    {
+      "username": "megha_reddy",
+      "full_name": "Megha Reddy",
+      "gender": "female",
+      "verified": true,
+      "private": true,
+      "account_type": "personal",
+      "followers": 270,
+      "city": "Hyderabad"
+    }
+  ]
+  
