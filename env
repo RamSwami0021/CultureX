@@ -1,1 +1,1 @@
-DATABASE = 
+DATABASE = "mongodb+srv://admin:admin@culturex.ql85djo.mongodb.net/CultureX?retryWrites=true&w=majority"
