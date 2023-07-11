@@ -25,7 +25,7 @@ toggle.onclick = function () {
   main.classList.toggle("active");
 };
 
-fetch("http://localhost:8080/api/UserData/Details")
+fetch("https://culturex.onrender.com/api/UserData/Details")
   .then((response) => response.json())
   .then((data) => {
     const tbody = document.querySelector("tbody");
